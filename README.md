@@ -1,6 +1,6 @@
 # OpenUtau-Greek-Dictionary
 
-Greek Dictionary for OpenUTAU, based on Wikipron + CMU Pronouncing Dictionary modified for easier use
+Greek Dictionary for OpenUTAU, based on the Wikipron Dictionary modified for easier use
 
 this dictionary is meant to be used by the ds dict yaml file for a diffsinger bank, or any Greek CVVC utau bank as a seperate phonimizer is still being worked on.
 
