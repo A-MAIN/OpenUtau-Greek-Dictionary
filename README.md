@@ -6,4 +6,4 @@ this dictionary is meant to be used by the ds dict yaml file for a diffsinger ba
 It includes entries with and without diacritics.
 
 the dictionary follows the OGSD Annotation (and Greeklish by extension), please follow the [Phoneme Guide](https://github.com/A-MAIN/Open-Greek-SinginDataset/blob/main/PHONEMEGUIDE.md) for any pronounciation examples.
-Please note that Wiktionary entries has its own [licensing terms](https://en.wiktionary.org/wiki/Wiktionary:Copyrights).
+Please note that Wiktionary entries have their own [licensing terms](https://en.wiktionary.org/wiki/Wiktionary:Copyrights).
