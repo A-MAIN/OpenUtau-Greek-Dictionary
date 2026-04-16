@@ -1,7 +1,8 @@
 # OpenUtau-Greek-Dictionary
 
-Greek Dictionary for OpenUTAU, based on the Wikipron Dictionary modified for easier use
+Greek Dictionary for OpenUTAU, based on the Wikipron entry, modified for easier use.
 
 this dictionary is meant to be used by the ds dict yaml file for a diffsinger bank, or any Greek CVVC utau bank with the use of a phonemizer.
+It includes entries with and without diacritics.
 
 the dictionary follows the OGSD Annotation (and Greeklish by extension), please follow the [Phoneme Guide](https://github.com/A-MAIN/Open-Greek-SinginDataset/blob/main/PHONEMEGUIDE.md) for any pronounciation examples.
