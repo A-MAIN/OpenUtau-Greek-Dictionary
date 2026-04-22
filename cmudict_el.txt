@@ -4554,7 +4554,9 @@
 εγερθήκαν  e y e r T i k a n
 εγερθήκανε  e y e r T i k a n e
 εγερθήτω  e y e r T i t o
-εγκέφαλος  e nj g e f a l o s
+εγκέφαλος  e g e f a l o s
+εγκέφαλος(1)  e n g e f a l o s
+εγκέφαλος(2)  e nj g e f a l o s
 εγκαθίδρυσα  e ng g a T i D rr i s a
 εγκαθίσταμαι  e ng g a T i s t a m e
 εγκαθιδρύθηκα  e ng g a T i D rr i T i k a
@@ -5367,7 +5369,9 @@
 ετούτος  e t u t o s
 ετράπην  e t r a p i n
 ετυμολογία  e t i m o l o y i a
-ευαγγέλιο  e v a nj g e l i o
+ευαγγέλιο  e v a g e l i o
+ευαγγέλιο(1)  e v a n g e l i o
+ευαγγέλιο(2)  e v a nj g e l i o
 ευαγγελίζομαι  e v a ng g e l i z o m e
 ευαγγελίσθηκα  e v a ng g e l i s T i k a
 ευαγγελίστηκα  e v a ng g e l i s t i k a
@@ -11457,7 +11461,8 @@
 σύγκλητον  s i ng g l i t o n
 σύγκλητος  s i ng g l i t o s
 σύγκλιση  s i ng g l i s i
-σύγχυση  s i nj x i s i
+σύγχυση  s i ng x i s i
+σύγχυση(1)  s i nj x i s i
 σύδεντρο  s i D e n d rr o
 σύκο  s i k o
 σύλλογος  s i l o G o s
@@ -19414,7 +19419,9 @@
 εγερθηκε  e y e r T i k e
 εγερθητε  e y e r T i t e
 εγερθητι  e y e r T i t i
-εγκεφαλος  e nj g e f a l o s
+εγκεφαλος  e g e f a l o s
+εγκεφαλος(1)  e n g e f a l o s
+εγκεφαλος(2)  e nj g e f a l o s
 εγκατελειψα  e ng g a t e l i ps a
 εγκατεστησα  e ng g a t e s t i s a
 εγκατεστημενος  e ng g a t e s t i m e n o s
@@ -19628,7 +19635,9 @@
 ερχομενων  e rr x o m e n o n
 ερωτημενος  e r o t i m e n o s
 εστεφθην  e s t e f T i n
-ευαγγελιο  e v a nj g e l i o
+ευαγγελιο  e v a g e l i o
+ευαγγελιο(1)  e v a n g e l i o
+ευαγγελιο(2)  e v a nj g e l i o
 ευεπηρεαστος  e v e p i rr e a s t o s
 ευθεως  e f T e o s
 ευσεβαστος  e f s e v a s t o s
@@ -27962,7 +27971,8 @@
 συγκλητον  s i ng g l i t o n
 συγκλητος  s i ng g l i t o s
 συγκλιση  s i ng g l i s i
-συγχυση  s i nj x i s i
+συγχυση  s i ng x i s i
+συγχυση(1)  s i nj x i s i
 συδεντρο  s i D e n d rr o
 συκο  s i k o
 συλλογος  s i l o G o s
