@@ -9154,7 +9154,6 @@
 παραβλέφθηκα  p a r a v l e f T i k a
 παραβλήθηκα  p a r a v l i T i k a
 παραβύστω  p a rr a v i s t o
-παραβύστῳ  p a rr a v i s t o
 παραγίνομαι  p a r a y i n o m e
 παραγγέλθηκα  p a rr a ng g e l T i k a
 παραγγέλλομαι  p a rr a ng g e l o m e
@@ -9769,7 +9768,6 @@
 πλαστός  p l a s t o s
 πλατίνα  p l a t i n a
 πλατεία  p l a t i a
-πλατεῖα  p l a t i a
 πλατιά  p l a t xj a
 πλατύς  p l a t i s
 πλείστος  p l i s t o s
@@ -10762,7 +10760,6 @@
 σοφίαν  s o f i a n
 σοφίας  s o f i a s
 σοφίες  s o f i e s
-σοφίᾳ  s o f i a
 σοφιών  s o f i o n
 σοφοί  s o f i
 σοφού  s o f u
@@ -11065,7 +11062,7 @@
 συγγράφουμε  s i ng G rr a f u m e
 συγγράφτηκα  s i ng G rr a f t i k a
 συγγράφω  s i ng G rr a f o
-συγγράφῃς  s i ng G rr a f i s
+συγγράφης  s i ng G rr a f i s
 συγγραφέα  s i ng G rr a f e a
 συγγραφέας  s i ng g r a f e a s
 συγγραφέας(1)  s i ng G rr a f e a s
@@ -11077,7 +11074,7 @@
 συγγραφεί  s i ng G rr a f i
 συγγραφείς  s i ng G rr a f i s
 συγγραφεύς  s i ng G rr a f e f s
-συγγραφεῦ  s i ng G rr a f e f
+συγγραφεύ  s i ng G rr a f e f
 συγγραφτεί  s i ng G rr a f t i
 συγγραφτεί(1)  s i G rr a f t i
 συγγραφτείς  s i ng G rr a f t i s
@@ -11616,7 +11613,7 @@
 ταχυφαγείο  t a x i f a y i o
 ταχύτητα  t a x i t i t a
 ταψί  t a ps i
-ταὐτομετάβατος  t a f t o m e t a v a t o s
+ταυτομετάβατος  t a f t o m e t a v a t o s
 τείνομαι  t i n o m e
 τείνομε  t i n o m e
 τείνουμε  t i n u m e
@@ -12518,17 +12515,14 @@
 φυτικήν  f i t i k i n
 φυτικής  f i t i k i s
 φυτικαί  f i t i k e
-φυτικαῖς  f i t i k e s
+φυτικαίς  f i t i k e s
 φυτικοί  f i t i k i
 φυτικού  f i t i k u
 φυτικούς  f i t i k u s
-φυτικοῦ  f i t i k u
 φυτικό  f i t i k o
 φυτικόν  f i t i k o n
 φυτικός  f i t i k o s
 φυτικών  f i t i k o n
-φυτικῆς  f i t i k i s
-φυτικῶν  f i t i k o n
 φυτολογία  f i t o l o y i a
 φυτό  f i t o
 φωνάζω  f o n a z o
@@ -13928,30 +13922,11 @@
 ώχρα  o x r a
 ώχρας  o x r a s
 ώχρες  o x r e s
-ἀερολιμήν  a e r o l i m i n
-ἀνέγραψα  a n e G rr a ps a
-ἀναγράφομαι  a n a G rr a f o m e
-ἀνασκάπτομεν  a n a s k a p t o m e n
-ἀναστρέφομαι  a n a s t rr e f o m e
-ἀνιδρύομαι  a n i D rr i o m e
-ἁγιοποιημένος  a y i o p i i m e n o s
-Ἀθήναις  a T i n e s
-ἐγκαθιδρύομαι  e ng g a T i D rr i o m e
-ἐκλάπην  e k l a p i n
-ἐκρούσθην  e k rr u s T i n
-ἐκωλύθην  e k o l i T i n
-ἐνέγραψα  e n e G rr a ps a
-ἐπέστρεψα  e p e s t r e ps a
-ἐπιστρέφομαι  e p i s t r e f o m e
-ἐτάφην  e t a f i n
-ἑορτάζομαι  e o r t a z o m e
-ἔκλεισα  e k l i s a
-ἔστρεψα  e s t r e ps a
-ἡλικιωμένος  i l i k i o m e n o s
-ἤγγισα  i ng g i s a
-ὑπέγραψα  i p e G rr a ps a
-ὑπεγράφην  i p e G rr a f i n
-ὑπογράφομαι  i p o G rr a f o m e
+αερολιμήν  a e r o l i m i n
+ανασκάπτομεν  a n a s k a p t o m e n
+εκρούσθην  e k rr u s T i n
+εκωλύθην  e k o l i T i n
+ήγγισα  i ng g i s a
 άγγελου  a ng g e l u
 άδης  a D i s
 άιφελ  a i f e l
@@ -14451,7 +14426,6 @@
 κωνσταντινούπολη  k o n s t a n d i n u p o l i
 κωνσταντινούπολης  k o n s t a n d i n u p o l i s
 κωνσταντινούπολις  k o n s t a n d i n u p o l i s
-κωνσταντῖνος  k o n s t a n d i n o s
 κως  k o s
 κωστάκης  k o s t a k i s
 κωστής  k o s t i s
@@ -14640,8 +14614,6 @@
 ναρινιάν  n a r i nj a n
 ναυσικά  n a f s i k a
 ναυσικάς  n a f s i k a s
-ναυσικᾶ  n a f s i k a
-ναυσικᾶς  n a f s i k a s
 ναύπακτε  n a f p a k t e
 ναύπακτο  n a f p a k t o
 ναύπακτος  n a f p a k t o s
@@ -17364,7 +17336,6 @@
 συγγραφουμε  s i ng G rr a f u m e
 συγγραφτηκα  s i ng G rr a f t i k a
 συγγραφω  s i ng G rr a f o
-συγγραφῃς  s i ng G rr a f i s
 συγκαλεσα  s i ng g a l e s a
 συγκατοικος  s i ng g a t i k o s
 συγκινητικα  s i ng g i n i t i k a
@@ -17457,7 +17428,7 @@
 ταραχτηκα  t a rr a x t i k a
 ταραμας  t a r a m a s
 τασακι  t a s a k i
-ταὐτομεταβατος  t a f t o m e t a v a t o s
+ταυτομεταβατος  t a f t o m e t a v a t o s
 τεμενας  t e m e n a s
 τεμπελια  t e m b e ll a
 τεμπελιαζω  t e m b e ll a z o
@@ -17930,13 +17901,7 @@
 ωσαννα  o s a n a
 ωχρα  o x r a
 ωχρας  o x r a s
-ἀναγραφομαι  a n a G rr a f o m e
-ἀνασκαπτομεν  a n a s k a p t o m e n
-ἐκλαπην  e k l a p i n
-ἐταφην  e t a f i n
-ἑορταζομαι  e o r t a z o m e
-ὑπεγραφην  i p e G rr a f i n
-ὑπογραφομαι  i p o G rr a f o m e
+ανασκαπτομεν  a n a s k a p t o m e n
 αγγελου  a ng g e l u
 αδης  a D i s
 αιφελ  a i f e l
@@ -21330,14 +21295,12 @@
 ωφελιμισμε  o f e l i m i z m e
 ωχρε  o x r e
 ωχρες  o x r e s
-ἀνεγραψα  a n e G rr a ps a
-ἀναστρεφομαι  a n a s t rr e f o m e
-ἁγιοποιημενος  a y i o p i i m e n o s
-ἐνεγραψα  e n e G rr a ps a
-ἐπεστρεψα  e p e s t r e ps a
-ἐπιστρεφομαι  e p i s t r e f o m e
-ἡλικιωμενος  i l i k i o m e n o s
-ὑπεγραψα  i p e G rr a ps a
+ανεγραψα  a n e G rr a ps a
+αναστρεφομαι  a n a s t rr e f o m e
+αγιοποιημενος  a y i o p i i m e n o s
+ενεγραψα  e n e G rr a ps a
+επεστρεψα  e p e s t r e ps a
+επιστρεφομαι  e p i s t r e f o m e
 εδεσσα  e D e s a
 ελλην  e l i n
 αγγελα  a ng g e l a
@@ -22356,8 +22319,8 @@
 ωχρη  o x r i
 ωχρης  o x r i s
 ωχροτητων  o x r o t i t o n
-ἀερολιμην  a e r o l i m i n
-Ἀθηναις  a T i n e s
+αερολιμην  a e r o l i m i n
+αΘηναις  a T i n e s
 αμερικη  a m e rr i k i
 ανθεστηρια  a n T e s t i r i a
 αργεντινη  a r y e n d i n i
@@ -24015,7 +23978,6 @@
 σοφιαν  s o f i a n
 σοφιας  s o f i a s
 σοφιες  s o f i e s
-σοφιᾳ  s o f i a
 σοφοι  s o f i
 σπιθα  s p i T a
 σπιθιζε  s p i T i z e
@@ -27694,7 +27656,6 @@
 παπουτσι  p a p u ts i
 παππους  p a p u s
 παραβυστω  p a rr a v i s t o
-παραβυστῳ  p a rr a v i s t o
 παραγκουπολη  p a r a ng g u p o l i
 παρακαλουμαι  p a rr a k a l u m e
 παρακαλουμε  p a rr a k a l u m e
@@ -28339,10 +28300,10 @@
 υφεση  i f e s i
 υψιλον  i ps i l o n
 υψωσα  i ps o s a
-ἀνιδρυομαι  a n i D rr i o m e
-ἐγκαθιδρυομαι  e ng g a T i D rr i o m e
-ἐκρουσθην  e k rr u s T i n
-ἐκωλυθην  e k o l i T i n
+ανιδρυομαι  a n i D rr i o m e
+εγκαθιδρυομαι  e ng g a T i D rr i o m e
+εκρουσθην  e k rr u s T i n
+εκωλυθην  e k o l i T i n
 αιγυπτιος  e y i p t i o s
 αλεξανδρουπολη  a l e ks a n D r u p o l i
 αμβουργο  a m v u rr G o
