@@ -15007,7 +15007,6 @@
 εκλεισα  e k l i s a
 εστρεψα  e s t r e ps a
 ηγγισα  i ng g i s a
-αθηναις  a T i n a i s
 μαιου  m a i u
 μαιους  m a i u s
 μαιων  m a i o n
@@ -21295,12 +21294,6 @@
 ωφελιμισμε  o f e l i m i z m e
 ωχρε  o x r e
 ωχρες  o x r e s
-ανεγραψα  a n e G rr a ps a
-αναστρεφομαι  a n a s t rr e f o m e
-αγιοποιημενος  a y i o p i i m e n o s
-ενεγραψα  e n e G rr a ps a
-επεστρεψα  e p e s t r e ps a
-επιστρεφομαι  e p i s t r e f o m e
 εδεσσα  e D e s a
 ελλην  e l i n
 αγγελα  a ng g e l a
@@ -22320,7 +22313,7 @@
 ωχρης  o x r i s
 ωχροτητων  o x r o t i t o n
 αερολιμην  a e r o l i m i n
-αΘηναις  a T i n e s
+αθηναις  a T i n e s
 αμερικη  a m e rr i k i
 ανθεστηρια  a n T e s t i r i a
 αργεντινη  a r y e n d i n i
@@ -27877,6 +27870,7 @@
 στρατοπεδευω  s t r a t o p e D e v o
 στυβομαι  s t i v o m e
 στυβω  s t i v o
+συγγραφευ  s i ng G rr a f e f
 συγγραφευς  s i ng G rr a f e f s
 συγκαλουμαι  s i ng g a l u m e
 συγκαλουμε  s i ng g a l u m e
@@ -28300,8 +28294,6 @@
 υφεση  i f e s i
 υψιλον  i ps i l o n
 υψωσα  i ps o s a
-ανιδρυομαι  a n i D rr i o m e
-εγκαθιδρυομαι  e ng g a T i D rr i o m e
 εκρουσθην  e k rr u s T i n
 εκωλυθην  e k o l i T i n
 αιγυπτιος  e y i p t i o s
