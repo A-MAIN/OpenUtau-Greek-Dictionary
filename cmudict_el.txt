@@ -15,7 +15,7 @@
 άγιας(1)  a y i a s
 άγιασα  a y a s a
 άγιε  a y i e
-άγιες  a y i e s
+άγιες  a y e s
 άγιες(1)  a y i e s
 άγιο  a y i o
 άγιο(1)  a y o
@@ -42,7 +42,6 @@
 άγχος  a ng x o s
 άγω  a G o
 άδεια  a D i a
-άδεια(1)  a D i a
 άδενδρος  a D e n D r o s
 άδεντρος  a D e n d r o s
 άδικη  a D i k i
@@ -400,12 +399,12 @@
 ήντα  i n d a
 ήπαρ  i p a r
 ήπειρος  i p i r o s
-ήπια  i p i a
-ήπια(1)  i p xj a
-ήπιε  i p i e
-ήπιε(1)  i p x e
-ήπιες  i p i e s
-ήπιες(1)  i p x e s
+ήπια  i p xj a
+ήπια(1)  i p i a
+ήπιε  i p x e
+ήπιε(1)  i p i e
+ήπιες  i p x e s
+ήπιες(1)  i p i e s
 ήπιος  i p i o s
 ήρα  i rr a
 ήσαν  i s a n
