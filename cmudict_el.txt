@@ -9,7 +9,7 @@
 άγγελος  a ng g e l o s
 άγγιξα  a ng g i ks a
 άγγισα  a ng g i s a
-άγια  a y i a
+άγια  a y a
 άγια(1)  a y i a
 άγιας  a y a s
 άγιας(1)  a y i a s
@@ -17,18 +17,18 @@
 άγιε  a y i e
 άγιες  a y e s
 άγιες(1)  a y i e s
-άγιο  a y i o
-άγιο(1)  a y o
-άγιοι  a y i i
+άγιο  a y o
+άγιο(1)  a y i o
+άγιοι  a y i
 άγιοι(1)  a y i i
-άγιος  a y i o s
-άγιος(1)  a y o s
-άγιου  a y i u
-άγιου(1)  a y u
-άγιους  a y i u s
-άγιους(1)  a y u s
-άγιων  a y i o n
-άγιων(1)  a y o n
+άγιος  a y o s
+άγιος(1)  a y i o s
+άγιου  a y u
+άγιου(1)  a y i u
+άγιους  a y u s
+άγιους(1)  a y i u s
+άγιων  a y o n
+άγιων(1)  a y i o n
 άγκιστρο  a ng g i s t r o
 άγκυρα  a ng g i rr a
 άγνωρος  a G n o r o s
