@@ -1030,8 +1030,8 @@
 ακοινωνησιά  a k i n o n i s xj a
 ακοινωνησιάς  a k i n o n i s xj a s
 ακοινωνησιές  a k i n o n i s x e s
-ακοινωνησιών  a k i n o n i s i o n
-ακοινωνησιών(1)  a k i n o n i s xj o n
+ακοινωνησιών  a k i n o n i s xj o n
+ακοινωνησιών(1)  a k i n o n i s i o n
 ακολασία  a k o l a s i a
 ακολουθάω  a k o l u T a o
 ακολουθήθηκα  a k o l u T i T i k a
@@ -3516,8 +3516,8 @@
 γίντις  y i d i s
 γαβ  G a v
 γαζία  G a z i a
-γαλάζιο  G a l a z i o
-γαλάζιο(1)  G a l a z y o
+γαλάζιο  G a l a z y o
+γαλάζιο(1)  G a l a z i o
 γαλήνη  G a l i n i
 γαλαζοπράσινο  G a l a z o p r a s i n o
 γαλακτικός  G a l a k t i k o s
@@ -4139,8 +4139,8 @@
 διακόπτουμε(2)  D y a k o p t u m e
 διακόπτω  D i a k o p t o
 διακόπτω(1)  D y a k o p t o
-διακόσια  D y a k o s i a
-διακόσια(1)  D y a k o s xj a
+διακόσια  D y a k o s xj a
+διακόσια(1)  D y a k o s i a
 διαλέγομαι  D i a l e G o m e
 διαλέγομαι(1)  D y a l e G o m e
 διαλέγω  D i a l e G o
@@ -11833,8 +11833,8 @@
 τρανς  t r a n s
 τρανός  t r a n o s
 τραπέζι  t r a p e z i
-τραπέζια  t r a p e z i a
-τραπέζια(1)  t r a p e z y a
+τραπέζια  t r a p e z y a
+τραπέζια(1)  t r a p e z i a
 τραπέζιον  t rr a p e z i o n
 τραυματίας  t r a v m a t i a s
 τραχεία  t r a x i a
@@ -12679,8 +12679,8 @@
 χαιτών  x e t o n
 χακί  x a k i
 χαλάζι  x a l a z i
-χαλάζια  x a l a z i a
-χαλάζια(1)  x a l a z y a
+χαλάζια  x a l a z y a
+χαλάζια(1)  x a l a z i a
 χαλάζιο  x a l a z i o
 χαλάκι  x a l a k i
 χαλάκια  x a l a kj a
@@ -12696,8 +12696,8 @@
 χαλαζίας  x a l a z i a s
 χαλαζίες  x a l a z i e s
 χαλαζιού  x a l a z y u
-χαλαζιών  x a l a z i o n
-χαλαζιών(1)  x a l a z y o n
+χαλαζιών  x a l a z y o n
+χαλαζιών(1)  x a l a z i o n
 χαλαρά  x a l a r a
 χαλαρή  x a l a r i
 χαλαροί  x a l a r i
@@ -15754,8 +15754,8 @@
 γαρμπος  G a r b o s
 γατα  G a t a
 γατος  G a t o s
-γαλαζιο  G a l a z i o
-γαλαζιο(1)  G a l a z y o
+γαλαζιο  G a l a z y o
+γαλαζιο(1)  G a l a z i o
 γαλαζοπρασινο  G a l a z o p r a s i n o
 γαλαταδικο  G a l a t a D i k o
 γαλεασσα  G a l e a s a
@@ -17709,8 +17709,8 @@
 χαζομαρες  x a z o m a r e s
 χαιρεταω  x e r e t a o
 χαλαζι  x a l a z i
-χαλαζια  x a l a z i a
-χαλαζια(1)  x a l a z y a
+χαλαζια  x a l a z y a
+χαλαζια(1)  x a l a z i a
 χαλαζιο  x a l a z i o
 χαλακι  x a l a k i
 χαλακια  x a l a kj a
@@ -21007,8 +21007,8 @@
 τραγουδισμενος  t r a G u D i z m e n o s
 τρακαρισμενος  t r a k a r i z m e n o s
 τραπεζι  t r a p e z i
-τραπεζια  t r a p e z i a
-τραπεζια(1)  t r a p e z y a
+τραπεζια  t r a p e z y a
+τραπεζια(1)  t r a p e z i a
 τραπεζιον  t rr a p e z i o n
 τριμμενα  t rr i m e n a
 τριμμενε  t rr i m e n e
@@ -25116,8 +25116,8 @@
 διακοπτουμε(2)  D y a k o p t u m e
 διακοπτω  D i a k o p t o
 διακοπτω(1)  D y a k o p t o
-διακοσια  D y a k o s i a
-διακοσια(1)  D y a k o s xj a
+διακοσια  D y a k o s xj a
+διακοσια(1)  D y a k o s i a
 διδακτικος  D i D a k t i k o s
 διεθνισμος  D i e T n i z m o s
 διεκοπην  D i e k o p i n
@@ -28460,7 +28460,7 @@
 αιχμαλωτισα  e x m a l o t i s a
 ακινητοποιω  a k i n i t o p i o
 ακλουθω  a k l u T o
-ακοινωνησιων(1)  a k i n o n i s xj o n
+ακοινωνησιων  a k i n o n i s xj o n
 ακολουθω  a k o l u T o
 ακοομετριων  a k o o m e t rr i o n
 ακοων  a k o o n
@@ -29377,8 +29377,8 @@
 χαβιαριων  x a v y a r y o n
 χαιρετω  x e r e t o
 χαιτων  x e t o n
-χαλαζιων  x a l a z i o n
-χαλαζιων(1)  x a l a z y o n
+χαλαζιων  x a l a z y o n
+χαλαζιων(1)  x a l a z i o n
 χαλαρωνω  x a l a r o n o
 χαλικιων  x a l i kj o n
 χαλιναριων  x a l i n a r y o n
