@@ -1592,8 +1592,8 @@
 αναδημιουργημένου  a n a D i m i u rr y i m e n u
 αναδημιουργημένους  a n a D i m i u rr y i m e n u s
 αναδημιουργημένων  a n a D i m i u rr y i m e n o n
-αναδιάρθρωση  a n a D i a r T r o s i
-αναδιάρθρωση(1)  a n a D y a r T r o s i
+αναδιάρθρωση  a n a D y a r T r o s i
+αναδιάρθρωση(1)  a n a D i a r T r o s i
 αναδιοργανώθηκα  a n a D i o r G a n o T i k a
 αναδιοργανώνομαι  a n a D i o r G a n o n o m e
 αναδιοργανώνω  a n a D i o r G a n o n o
@@ -3259,12 +3259,12 @@
 βερνικώνομαι  v e r n i k o n o m e
 βερνικώνω  v e r n i k o n o
 βεσέ  v e s e
-βιάζομαι  v i a z o m e
-βιάζομαι(1)  v y a z o m e
-βιάζω  v i a z o
-βιάζω(1)  v y a z o
-βιάστηκα  v i a s t i k a
-βιάστηκα(1)  v y a s t i k a
+βιάζομαι  v y a z o m e
+βιάζομαι(1)  v i a z o m e
+βιάζω  v y a z o
+βιάζω(1)  v i a z o
+βιάστηκα  v y a s t i k a
+βιάστηκα(1)  v i a s t i k a
 βιασμένος  v i a z m e n o s
 βιβλίο  v i v l i o
 βιβλιοθήκη  v i v l i o T i k i
@@ -3314,19 +3314,14 @@
 βογκώ  v o ng g o
 βοηθάμε  v o i T a m e
 βοηθάω  v o i T a o
-βοηθάω(1)  v o i T a o
 βοηθήθηκα  v o i T i T i k a
-βοηθήθηκα(1)  v o i T i T i k a
 βοηθημένος  v o i T i m e n o s
-βοηθημένος(1)  v o i T i m e n o s
 βοηθιέμαι  v o i T x e m e
 βοηθούμαι  v o i T u m e
 βοηθούμε  v o i T u m e
 βοηθούμενος  v o i T u m e n o s
-βοηθούμενος(1)  v o i T u m e n o s
 βοηθός  v o i T o s
 βοηθώ  v o i T o
-βοηθώ(1)  v o i T o
 βολεύω  v o l e v o
 βολιδοσκοπήθηκα  v o l i D o s k o p i T i k a
 βολιδοσκοπώ  v o l i D o s k o p o
@@ -4019,23 +4014,22 @@
 δημόσιος  D i m o s i o s
 δημώδης  D i m o D i s
 δημώδους  D i m o D u s
-διά  D i a
-διά(1)  D y a
+διά  D y a
+διά(1)  D i a
 διάβολε  D y a v o l e
-διάβολος  D i a v o l o s
-διάβολος(1)  D y a v o l o s
-διάδοχος  D i a D o x o s
-διάδοχος(1)  D y a D o x o s
-διάδοχος(2)  D y a D o x o s
-διάλειμμα  D i a l i m a
-διάλειμμα(1)  D y a l i m a
+διάβολος  D y a v o l o s
+διάβολος(1)  D i a v o l o s
+διάδοχος  D y a D o x o s
+διάδοχος(1)  D i a D o x o s
+διάλειμμα  D y a l i m a
+διάλειμμα(1)  D i a l i m a
 διάλογος  D i a l o G o s
 διάνυσα  D i a n i s a
 διάνυσμα  D i a n i z m a
 διάρθρωση  D i a r T r o s i
 διάρκεσα  D i a r k e s a
-διάρροια  D i a r i a
-διάρροια(1)  D y a r i a
+διάρροια  D y a r i a
+διάρροια(1)  D i a r i a
 διάτανος  D y a t a n o s
 διέβλεψα  D i e v l e ps a
 διέγειρα  D i e y i r a
@@ -4043,18 +4037,17 @@
 διέθλασα(1)  D i e T l a s a
 διέθρεψα  D i e T r e ps a
 διέθρεψα(1)  D i e T r e ps a
-διέκοψα  D i e k o ps a
+διέκοψα  D y e k o ps a
 διέκοψα(1)  D y e k o ps o
-διέκοψα(2)  D y e k o ps a
+διέκοψα(2)  D i e k o ps a
 διέπλευσα  D i e p l e f s a
 διέπνευσα  D i e p n e f s a
 διέπομαι  D i e p o m e
-διέπρεψα  D i e p r e ps a
-διέπρεψα(1)  D y e p r e ps a
+διέπρεψα  D y e p r e ps a
+διέπρεψα(1)  D i e p r e ps a
 διέπω  D i e p o
-διέρρευσα  D i e rr e f s a
+διέρρευσα  D y e rr e f s a
 διέρρευσα(1)  D i e rr e f s a
-διέρρευσα(2)  D y e rr e f s a
 διέρχομαι  D i e rr x o m e
 διέχυσα  D i e x i s a
 διέψευσα  D i e ps e f s a
@@ -4067,43 +4060,40 @@
 διαίρεσα  D i e r e s a
 διαβάζομαι  D y a v a z o m e
 διαβάζω  D y a v a z o
-διαβεβαίωσα  D i a v e v e o s a
-διαβεβαίωσα(1)  D y a v e v e o s a
-διαβεβαιώθηκα  D i a v e v e o T i k a
-διαβεβαιώθηκα(1)  D y a v e v e o T i k a
-διαβεβαιώνομαι  D i a v e v e o n o m e
-διαβεβαιώνομαι(1)  D y a v e v e o n o m e
-διαβεβαιώνω  D i a v e v e o n o
-διαβεβαιώνω(1)  D y a v e v e o n o
-διαβεβαιώσεις  D i a v e v e o s i s
-διαβεβαιώσεις(1)  D y a v e v e o s i s
+διαβεβαίωσα  D y a v e v e o s a
+διαβεβαίωσα(1)  D i a v e v e o s a
+διαβεβαιώθηκα  D y a v e v e o T i k a
+διαβεβαιώθηκα(1)  D i a v e v e o T i k a
+διαβεβαιώνομαι  D y a v e v e o n o m e
+διαβεβαιώνομαι(1)  D i a v e v e o n o m e
+διαβεβαιώνω  D y a v e v e o n o
+διαβεβαιώνω(1)  D i a v e v e o n o
+διαβεβαιώσεις  D y a v e v e o s i s
+διαβεβαιώσεις(1)  D i a v e v e o s i s
 διαβλέπω  D i a v l e p o
 διαγουμίζομαι  D y a G u m i z o m e
 διαγουμίζω  D y a G u m i z o
 διαγουμίστηκα  D y a G u m i s t i k a
 διαγούμισα  D y a G u m i s a
-διαγωνίζομαι  D i a G o n i z o m e
-διαγωνίζομαι(1)  D y a G o n i z o m e
-διαδέχθηκα  D i a D e x T i k a
-διαδέχθηκα(1)  D y a D e x T i k a
-διαδέχομαι  D i a D e x o m e
+διαγωνίζομαι  D y a G o n i z o m e
+διαγωνίζομαι(1)  D i a G o n i z o m e
+διαδέχθηκα  D y a D e x T i k a
+διαδέχθηκα(1)  D i a D e x T i k a
+διαδέχομαι  D y a D e x o m e
 διαδέχομαι(1)  D i a D e x o m e
-διαδέχομαι(2)  D y a D e x o m e
-διαδέχτηκα  D i a D e x t i k a
-διαδέχτηκα(1)  D y a D e x t i k a
-διαδίκτυο  D i a D i k t i o
-διαδίκτυο(1)  D y a D i k t i o
+διαδέχτηκα  D y a D e x t i k a
+διαδέχτηκα(1)  D i a D e x t i k a
+διαδίκτυο  D y a D i k t i o
+διαδίκτυο(1)  D i a D i k t i o
 διαδεδομένος  D i a D e D o m e n o s
-διαδεχθεί  D i a D e x T i
-διαδεχθεί(1)  D y a D e x T i
-διαδεχτεί  D i a D e x t i
-διαδεχτεί(1)  D y a D e x t i
-διαδηλώνομαι  D i a D i l o n o m e
+διαδεχθεί  D y a D e x T i
+διαδεχθεί(1)  D i a D e x T i
+διαδεχτεί  D y a D e x t i
+διαδεχτεί(1)  D i a D e x t i
+διαδηλώνομαι  D y a D i l o n o m e
 διαδηλώνομαι(1)  D i a D i l o n o m e
-διαδηλώνομαι(2)  D y a D i l o n o m e
-διαδηλώνω  D i a D i l o n o
+διαδηλώνω  D y a D i l o n o
 διαδηλώνω(1)  D i a D i l o n o
-διαδηλώνω(2)  D y a D i l o n o
 διαδοχή  D y a D o x i
 διαδοχικός  D y a D o x i k o s
 διαθήκη  D i a T i k i
@@ -4119,32 +4109,27 @@
 διαισθάνθηκα  D i e s T a n T i k a
 διαισθάνομαι  D i e s T a n o m e
 διαιτώμαι  D i e t o m e
-διακήρυξη  D i a k i r i ks i
-διακήρυξη(1)  D i a k i r i ks i
-διακήρυξη(2)  D y a k i r i ks i
+διακήρυξη  D y a k i r i ks i
+διακήρυξη(1)  D y a k i r i ks i
 διακομιστής  D i a k o m i s t i s
 διακοσμώ  D i a k o z m o
 διακρίνω  D i a k rr i n o
-διακόπηκα  D i a k o p i k a
-διακόπηκα(1)  D y a k o p i k a
-διακόπηκα(2)  D y a k o p i k a
-διακόπτομαι  D i a k o p t o m e
-διακόπτομαι(1)  D y a k o p t o m e
-διακόπτομαι(2)  D y a k o p t o m e
-διακόπτομε  D i a k o p t o m e
-διακόπτομε(1)  D y a k o p t o m e
-διακόπτομε(2)  D y a k o p t o m e
-διακόπτουμε  D i a k o p t u m e
-διακόπτουμε(1)  D y a k o p t u m e
-διακόπτουμε(2)  D y a k o p t u m e
-διακόπτω  D i a k o p t o
-διακόπτω(1)  D y a k o p t o
+διακόπηκα  D y a k o p i k a
+διακόπηκα(1)  D i a k o p i k a
+διακόπτομαι  D y a k o p t o m e
+διακόπτομαι(1)  D i a k o p t o m e
+διακόπτομε  D y a k o p t o m e
+διακόπτομε(1)  D i a k o p t o m e
+διακόπτουμε  D y a k o p t u m e
+διακόπτουμε(1)  D i a k o p t u m e
+διακόπτω  D y a k o p t o
+διακόπτω(1)  D i a k o p t o
 διακόσια  D y a k o s xj a
 διακόσια(1)  D y a k o s i a
-διαλέγομαι  D i a l e G o m e
-διαλέγομαι(1)  D y a l e G o m e
-διαλέγω  D i a l e G o
-διαλέγω(1)  D y a l e G o
+διαλέγομαι  D y a l e G o m e
+διαλέγομαι(1)  D i a l e G o m e
+διαλέγω  D y a l e G o
+διαλέγω(1)  D i a l e G o
 διαλελυμένα  D i a l e l i m e n a
 διαλελυμένε  D i a l e l i m e n e
 διαλελυμένες  D i a l e l i m e n e s
@@ -4158,31 +4143,31 @@
 διαλελυμένων  D i a l e l i m e n o n
 διαλογίζομαι  D i a l o y i z o m e
 διαλογίστηκα  D i a l o y i s t i k a
-διαλυμένα  D i a l i m e n a
-διαλυμένα(1)  D y a l i m e n a
-διαλυμένε  D i a l i m e n e
-διαλυμένε(1)  D y a l i m e n e
-διαλυμένες  D i a l i m e n e s
-διαλυμένες(1)  D y a l i m e n e s
-διαλυμένη  D i a l i m e n i
-διαλυμένη(1)  D y a l i m e n i
-διαλυμένης  D i a l i m e n i s
-διαλυμένης(1)  D y a l i m e n i s
-διαλυμένο  D i a l i m e n o
-διαλυμένο(1)  D y a l i m e n o
-διαλυμένοι  D i a l i m e n i
-διαλυμένοι(1)  D y a l i m e n i
-διαλυμένος  D i a l i m e n o s
-διαλυμένος(1)  D y a l i m e n o s
-διαλυμένου  D i a l i m e n u
-διαλυμένου(1)  D y a l i m e n u
-διαλυμένους  D i a l i m e n u s
-διαλυμένους(1)  D y a l i m e n u s
-διαλυμένων  D i a l i m e n o n
-διαλυμένων(1)  D y a l i m e n o n
+διαλυμένα  D y a l i m e n a
+διαλυμένα(1)  D i a l i m e n a
+διαλυμένε  D y a l i m e n e
+διαλυμένε(1)  D i a l i m e n e
+διαλυμένες  D y a l i m e n e s
+διαλυμένες(1)  D i a l i m e n e s
+διαλυμένη  D y a l i m e n i
+διαλυμένη(1)  D i a l i m e n i
+διαλυμένης  D y a l i m e n i s
+διαλυμένης(1)  D i a l i m e n i s
+διαλυμένο  D y a l i m e n o
+διαλυμένο(1)  D i a l i m e n o
+διαλυμένοι  D y a l i m e n i
+διαλυμένοι(1)  D i a l i m e n i
+διαλυμένος  D y a l i m e n o s
+διαλυμένος(1)  D i a l i m e n o s
+διαλυμένου  D y a l i m e n u
+διαλυμένου(1)  D i a l i m e n u
+διαλυμένους  D y a l i m e n u s
+διαλυμένους(1)  D i a l i m e n u s
+διαλυμένων  D y a l i m e n o n
+διαλυμένων(1)  D i a l i m e n o n
 διαλυτικά  D y a l i t i k a
-διαλύω  D i a l i o
-διαλύω(1)  D y a l i o
+διαλύω  D y a l i o
+διαλύω(1)  D i a l i o
 διαμάντι  D y a m a n d i
 διαμήνυσα  D i a m i n i s a
 διαμείβομαι  D i a m i v o m e
@@ -4192,20 +4177,17 @@
 διαμηνύθηκα  D i a m i n i T i k a
 διαμηνύομαι  D i a m i n i o m e
 διαμηνύω  D i a m i n i o
-διαμοιράζω  D i a m i r a z o
-διαμοιράζω(1)  D y a m i r a z o
+διαμοιράζω  D y a m i r a z o
+διαμοιράζω(1)  D i a m i r a z o
 διαμοιραστής  D i a m i rr a s t i s
-διαμονή  D i a m o n i
-διαμονή(1)  D y a m o n i
-διαμορφώνομαι  D i a m o r f o n o m e
+διαμονή  D y a m o n i
+διαμονή(1)  D i a m o n i
+διαμορφώνομαι  D y a m o r f o n o m e
 διαμορφώνομαι(1)  D i a m o r f o n o m e
-διαμορφώνομαι(2)  D y a m o r f o n o m e
-διαμορφώνω  D i a m o r f o n o
+διαμορφώνω  D y a m o r f o n o
 διαμορφώνω(1)  D i a m o r f o n o
-διαμορφώνω(2)  D y a m o r f o n o
-διαμορφώσεις  D i a m o r f o s i s
+διαμορφώσεις  D y a m o r f o s i s
 διαμορφώσεις(1)  D i a m o r f o s i s
-διαμορφώσεις(2)  D y a m o r f o s i s
 διανέμομαι  D i a n e m o m e
 διανέμομε  D i a n e m o m e
 διανέμουμε  D i a n e m u m e
@@ -4218,10 +4200,10 @@
 διανύομε  D i a n i o m e
 διανύομεν  D i a n i o m e n
 διανύουμε  D i a n i u m e
-διανύω  D i a n i o
-διανύω(1)  D y a n i o
-διαπερασμένος  D i a p e r a z m e n o s
-διαπερασμένος(1)  D y a p e r a z m e n o s
+διανύω  D y a n i o
+διανύω(1)  D i a n i o
+διαπερασμένος  D y a p e r a z m e n o s
+διαπερασμένος(1)  D i a p e r a z m e n o s
 διαπλέω  D i a p l e o
 διαπληκτίζομαι  D i a p l i k t i z o m e
 διαπληκτίσθηκα  D i a p l i k t i s T i k a
@@ -4234,37 +4216,30 @@
 διαπραγματεύομαι  D y a p r a G m a t e v o m e
 διαρκής  D i a rr k i s
 διαρκώ  D i a r k o
-διαρκώ(1)  D i a r k o
-διαρρέεται  D i a rr e e t e
-διαρρέεται(1)  D y a rr e e t e
-διαρρέομαι  D i a rr e o m e
+διαρρέεται  D y a rr e e t e
+διαρρέεται(1)  D i a rr e e t e
+διαρρέομαι  D y a rr e o m e
 διαρρέομαι(1)  D i a rr e o m e
-διαρρέομαι(2)  D y a rr e o m e
-διαρρέομε  D i a rr e o m e
-διαρρέομε(1)  D y a rr e o m e
-διαρρέουμε  D i a rr e u m e
+διαρρέομε  D y a rr e o m e
+διαρρέομε(1)  D i a rr e o m e
+διαρρέουμε  D y a rr e u m e
 διαρρέουμε(1)  D i a rr e u m e
-διαρρέουμε(2)  D y a rr e u m e
-διαρρέτε  D i a rr e e t e
-διαρρέτε(1)  D y a rr e e t e
-διαρρέτε(2)  D y a rr e e t e
-διαρρέω  D i a rr e o
+διαρρέτε  D y a rr e e t e
+διαρρέτε(1)  D i a rr e e t e
+διαρρέω  D y a rr e o
 διαρρέω(1)  D i a rr e o
-διαρρέω(2)  D y a rr e o
 διασκέπτομαι  D i a s k e p t o m e
-διασκέπτομαι(1)  D i a s k e p t o m e
 διασκέφθηκα  D i a s k e f T i k a
 διασκεδάζομαι  D i a s k e D a z o m e
-διασκεδάζω  D i a s k e D a z o
-διασκεδάζω(1)  D y a s k e D a z o
+διασκεδάζω  D y a s k e D a z o
+διασκεδάζω(1)  D i a s k e D a z o
 διασκελίζω  D i a s k e l i z o
 διασκευή  D i a s k e v i
-διασπώ  D i a s p o
+διασπώ  D y a s p o
 διασπώ(1)  D i a s p o
-διασπώ(2)  D y a s p o
 διαστροφή  D y a s t r o f i
-διασωληνωμένος  D i a s o l i n o m e n o s
-διασωληνωμένος(1)  D y a s o l i n o m e n o s
+διασωληνωμένος  D y a s o l i n o m e n o s
+διασωληνωμένος(1)  D i a s o l i n o m e n o s
 διατηρήθηκα  D i a t i r i T i k a
 διατηρημένος  D i a t i r i m e n o s
 διατηρούμαι  D i a t i r u m e
@@ -4272,46 +4247,37 @@
 διατηρώ  D i a t i r o
 διατράφηκα  D i a t r a f i k a
 διατρέφομαι  D i a t r e f o m e
-διατρέφω  D i a t r e f o
-διατρέφω(1)  D y a t r e f o
+διατρέφω  D y a t r e f o
+διατρέφω(1)  D i a t r e f o
 διατριβή  D y a t r i v i
-διατροφή  D i a t r o f i
-διατροφή(1)  D y a t r o f i
-διατυπώνομαι  D i a t i p o n o m e
+διατροφή  D y a t r o f i
+διατροφή(1)  D i a t r o f i
+διατυπώνομαι  D y a t i p o n o m e
 διατυπώνομαι(1)  D i a t i p o n o m e
-διατυπώνομαι(2)  D y a t i p o n o m e
-διατυπώνω  D i a t i p o n o
+διατυπώνω  D y a t i p o n o
 διατυπώνω(1)  D i a t i p o n o
-διατυπώνω(2)  D y a t i p o n o
 διαφήμιση  D i a f i m i s i
 διαφανής  D i a f a n i s
 διαφημιστής  D i a f i m i s t i s
-διαφωνώ  D i a f o n o
-διαφωνώ(1)  D y a f o n o
-διαχέομαι  D i a x e o m e
-διαχέομαι(1)  D y a x e o m e
-διαχέομαι(2)  D y a x e o m e
-διαχέομε  D i a x e o m e
-διαχέομε(1)  D y a x e o m e
-διαχέομε(2)  D y a x e o m e
-διαχέουμε  D i a x e u m e
-διαχέουμε(1)  D y a x e u m e
-διαχέουμε(2)  D y a x e u m e
-διαχέω  D i a x e o
-διαχέω(1)  D y a x e o
-διαχέω(2)  D y a x e o
+διαφωνώ  D y a f o n o
+διαφωνώ(1)  D i a f o n o
+διαχέομαι  D y a x e o m e
+διαχέομαι(1)  D i a x e o m e
+διαχέομε  D y a x e o m e
+διαχέομε(1)  D i a x e o m e
+διαχέουμε  D y a x e u m e
+διαχέουμε(1)  D i a x e u m e
+διαχέω  D y a x e o
+διαχέω(1)  D i a x e o
 διαχειρίζομαι  D i a x i r i z o m e
 διαχειρίσθηκα  D i a x i r i s T i k a
 διαχειρίστηκα  D i a x i r i s t i k a
-διαχύθηκα  D i a x i T i k a
-διαχύθηκα(1)  D y a x i T i k a
-διαχύθηκα(2)  D y a x i T i k a
-διαχύνομαι  D i a x i n o m e
-διαχύνομαι(1)  D y a x i n o m e
-διαχύνομαι(2)  D y a x i n o m e
-διαχύνω  D i a x i n o
-διαχύνω(1)  D y a x i n o
-διαχύνω(2)  D y a x i n o
+διαχύθηκα  D y a x i T i k a
+διαχύθηκα(1)  D i a x i T i k a
+διαχύνομαι  D y a x i n o m e
+διαχύνομαι(1)  D i a x i n o m e
+διαχύνω  D y a x i n o
+διαχύνω(1)  D i a x i n o
 διαψεύδομαι  D i a ps e v D o m e
 διαψεύδομε  D i a ps e v D o m e
 διαψεύδομε(1)  D i a ps e v D o m e
@@ -4330,8 +4296,8 @@
 διεγείρουμε  D i e y i r u m e
 διεγείρω  D i e y i r o
 διεγερμένος  D i e y e r m e n o s
-διεθνής  D i e T n i s
-διεθνής(1)  D y e T n i s
+διεθνής  D y e T n i s
+διεθνής(1)  D i e T n i s
 διεθνισμός  D i e T n i z m o s
 διεκόπην  D i e k o p i n
 διεμήνυσα  D i e m i n i s a
@@ -4356,8 +4322,8 @@
 διοργανώθηκα  D i o r G a n o T i k a
 διοργανώνομαι  D i o r G a n o n o m e
 διοργανώνω  D i o r G a n o n o
-διορθώνω  D i o r T o n o
-διορθώνω(1)  D y o r T o n o
+διορθώνω  D y o r T o n o
+διορθώνω(1)  D i o r T o n o
 διοχετεύω  D i o x e t e v o
 διπλάσιος  D i p l a s i o s
 διπλανή  D i p l a n i
@@ -4873,7 +4839,6 @@
 ενδιέτριψα  e n D i e t r i ps a
 ενδιέφερα  e n D i e f e r a
 ενδιατρίβω  e n D i a t r i v o
-ενδιατρίβω(1)  e n D i a t r i v o
 ενδιαφέρθηκα  e n D i a f e r T i k a
 ενδιαφέρομαι  e n D i a f e r o m e
 ενδιαφέρουσας  e n D y a f e rr u s a s
@@ -5430,8 +5395,8 @@
 ευχετικός  e f x e t i k o s
 ευωδία  e v o D i a
 ευωδιά  e v o D y a
-ευωδιών  e v o D i o n
-ευωδιών(1)  e v o D y o n
+ευωδιών  e v o D y o n
+ευωδιών(1)  e v o D i o n
 εφάπτομαι  e f a p t o m e
 εφέτος  e f e t o s
 εφήμερος  e f i m e rr o s
@@ -5777,8 +5742,8 @@
 ιγνύα  i G n i a
 ιδίως  i D i o s
 ιδιαίτερα  i D i e t e r a
-ιδιαίτερος  i D i e t e r o s
-ιδιαίτερος(1)  i D y e t e r o s
+ιδιαίτερος  i D y e t e r o s
+ιδιαίτερος(1)  i D i e t e r o s
 ιδιαιτέρως  i D i e t e r o s
 ιδιοσυγκρασία  i D i o s i ng g r a s i a
 ιδιοφυής  i D i o f i i s
@@ -6034,12 +5999,12 @@
 κακογαμημένου  k a k o G a m i m e n u
 κακογαμημένους  k a k o G a m i m e n u s
 κακογαμημένων  k a k o G a m i m e n o n
-κακοκεφιά  k a k o k e f i a
-κακοκεφιά(1)  k a k o k e f xj a
-κακοκεφιάς  k a k o k e f i a s
-κακοκεφιάς(1)  k a k o k e f xj a s
-κακοκεφιές  k a k o k e f i e s
-κακοκεφιές(1)  k a k o k e f x e s
+κακοκεφιά  k a k o k e f xj a
+κακοκεφιά(1)  k a k o k e f i a
+κακοκεφιάς  k a k o k e f xj a s
+κακοκεφιάς(1)  k a k o k e f i a s
+κακοκεφιές  k a k o k e f x e s
+κακοκεφιές(1)  k a k o k e f i e s
 κακοκεφιών  k a k o k e f xj o n
 κακοποιούμαι  k a k o p i u m e
 κακοποιούμε  k a k o p i u m e
@@ -9035,8 +9000,8 @@
 παιδεύομαι  p e D e v o m e
 παιδεύτηκα  p e D e f t i k a
 παιδεύω  p e D e v o
-παιδιά  p e D i a
-παιδιά(1)  p e D y a
+παιδιά  p e D y a
+παιδιά(1)  p e D i a
 παιδοβούβαλο  p e D o v u v a l o
 παιδοβούβαλος  p e D o v u v a l o s
 παιδότοπος  p e D o t o p o s
@@ -9730,8 +9695,8 @@
 πιτσουνάκια  p i ts u n a kj a
 πιτσούνι  p i ts u n i
 πιόνι  p xj o n i
-πιόνια  p i o n i a
-πιόνια(1)  p xj o nj a
+πιόνια  p xj o nj a
+πιόνια(1)  p i o n i a
 πιόνιο  p i o n i o
 πλάγιασα  p l a y a s a
 πλάθω  p l a T o
@@ -9823,8 +9788,8 @@
 ποδαρίλα  p o D a r i l a
 ποδαριού  p o D a r y u
 ποδαριών  p o D a r y o n
-ποδιά  p o D i a
-ποδιά(1)  p o D y a
+ποδιά  p o D y a
+ποδιά(1)  p o D i a
 ποδοσφαίρου  p o D o s f e rr u
 ποδοσφαίρων  p o D o s f e rr o n
 ποδοσφαιρίστρια  p o D o s f e r i s t r i a
@@ -11008,10 +10973,10 @@
 στραβώνω  s t r a v o n o
 στραγγίζομαι  s t r a ng g i z o m e
 στραγγίζω  s t r a ng g i z o
-στρατιά  s t r a t i a
-στρατιά(1)  s t r a t xj a
-στρατιώτης  s t r a t i o t i s
-στρατιώτης(1)  s t r a t xj o t i s
+στρατιά  s t r a t xj a
+στρατιά(1)  s t r a t i a
+στρατιώτης  s t r a t xj o t i s
+στρατιώτης(1)  s t r a t i o t i s
 στρατοπέδου  s t r a t o p e D u
 στρατοπέδων  s t r a t o p e D o n
 στρατοπεδεύω  s t r a t o p e D e v o
@@ -15400,8 +15365,8 @@
 αναγραφομε  a n a G rr a f o m e
 αναγραφουμε  a n a G rr a f u m e
 αναγραφω  a n a G rr a f o
-αναδιαρθρωση  a n a D i a r T r o s i
-αναδιαρθρωση(1)  a n a D y a r T r o s i
+αναδιαρθρωση  a n a D y a r T r o s i
+αναδιαρθρωση(1)  a n a D i a r T r o s i
 αναζηταω  a n a z i t a o
 αναθαλλω  a n a T a l o
 αναθαρρεψα  a n a T a r e ps a
@@ -15701,12 +15666,12 @@
 βδομαδα  v D o m a D a
 βελανιδια  v e l a n i D y a
 βερικοκια  v e r i k o kj a
-βιαζομαι  v i a z o m e
-βιαζομαι(1)  v y a z o m e
-βιαζω  v i a z o
-βιαζω(1)  v y a z o
-βιαστηκα  v i a s t i k a
-βιαστηκα(1)  v y a s t i k a
+βιαζομαι  v y a z o m e
+βιαζομαι(1)  v i a z o m e
+βιαζω  v y a z o
+βιαζω(1)  v i a z o
+βιαστηκα  v y a s t i k a
+βιαστηκα(1)  v i a s t i k a
 βλακας  v l a k a s
 βλαμης  v l a m i s
 βλαπτει  v l a p t i
@@ -15720,7 +15685,6 @@
 βογκαω  v o ng g a o
 βοηθαμε  v o i T a m e
 βοηθαω  v o i T a o
-βοηθαω(1)  v o i T a o
 βοριας  v o r y a s
 βοσκαω  v o s k a o
 βουβαλι  v u v a l i
@@ -15859,20 +15823,19 @@
 δια  D i a
 δια(1)  D y a
 διαβολε  D y a v o l e
-διαβολος  D i a v o l o s
-διαβολος(1)  D y a v o l o s
-διαδοχος  D i a D o x o s
-διαδοχος(1)  D y a D o x o s
-διαδοχος(2)  D y a D o x o s
-διαλειμμα  D i a l i m a
-διαλειμμα(1)  D y a l i m a
+διαβολος  D y a v o l o s
+διαβολος(1)  D i a v o l o s
+διαδοχος  D y a D o x o s
+διαδοχος(1)  D i a D o x o s
+διαλειμμα  D y a l i m a
+διαλειμμα(1)  D i a l i m a
 διαλογος  D i a l o G o s
 διανυσα  D i a n i s a
 διανυσμα  D i a n i z m a
 διαρθρωση  D i a r T r o s i
 διαρκεσα  D i a r k e s a
-διαρροια  D i a r i a
-διαρροια(1)  D y a r i a
+διαρροια  D y a r i a
+διαρροια(1)  D i a r i a
 διατανος  D y a t a n o s
 διαβαζομαι  D y a v a z o m e
 διαβαζω  D y a v a z o
@@ -15881,11 +15844,11 @@
 διαισθανομαι  D i e s T a n o m e
 διαλυτικα  D y a l i t i k a
 διαμαντι  D y a m a n d i
-διαμοιραζω  D i a m i r a z o
-διαμοιραζω(1)  D y a m i r a z o
+διαμοιραζω  D y a m i r a z o
+διαμοιραζω(1)  D i a m i r a z o
 διασκεδαζομαι  D i a s k e D a z o m e
-διασκεδαζω  D i a s k e D a z o
-διασκεδαζω(1)  D y a s k e D a z o
+διασκεδαζω  D y a s k e D a z o
+διασκεδαζω(1)  D i a s k e D a z o
 διατραφηκα  D i a t r a f i k a
 διδασκω  D i D a s k o
 διεξαγω  D i e ks a G o
@@ -16210,10 +16173,10 @@
 καθικακι  k a T i k a k i
 καθοριστικα  k a T o r i s t i k a
 κακασχημος  k a k a s x i m o s
-κακοκεφια  k a k o k e f i a
-κακοκεφια(1)  k a k o k e f xj a
-κακοκεφιας  k a k o k e f i a s
-κακοκεφιας(1)  k a k o k e f xj a s
+κακοκεφια  k a k o k e f xj a
+κακοκεφια(1)  k a k o k e f i a
+κακοκεφιας  k a k o k e f xj a s
+κακοκεφιας(1)  k a k o k e f i a s
 καλα  k a l a
 καλαθι  k a l a T i
 καλαι  k a l a i
@@ -16895,8 +16858,8 @@
 παζαρι  p a z a r i
 παιδακι  p a i D a k i
 παιδακια  p a i D a kj a
-παιδια  p e D i a
-παιδια(1)  p e D y a
+παιδια  p e D y a
+παιδια(1)  p e D i a
 πακεταρισα  p a k e t a r i s a
 πακεταρομαι  p a k e t a r o m e
 πακεταρω  p a k e t a r o
@@ -17093,8 +17056,8 @@
 πλωταρχης  p l o t a r x i s
 ποδαρι  p o D a r i
 ποδαρια  p o D a r y a
-ποδια  p o D i a
-ποδια(1)  p o D y a
+ποδια  p o D y a
+ποδια(1)  p o D i a
 πολεμαω  p o l e m a o
 πολεμικα  p o l e m i k a
 πολεμοκαπηλος  p o l e m o k a p i l o s
@@ -17324,8 +17287,8 @@
 στρατα  s t r a t a
 στρατευμα  s t r a t e v m a
 στραφηκα  s t r a f i k a
-στρατια  s t r a t i a
-στρατια(1)  s t r a t xj a
+στρατια  s t r a t xj a
+στρατια(1)  s t r a t i a
 συγγραφει  s i ng G rr a f i
 συγγραφεις  s i ng G rr a f i s
 συγγραφηκα  s i ng G rr a f i k a
@@ -18530,8 +18493,8 @@
 αγχωμενος  a ng x o m e n o s
 αγωνιστες  a G o n i s t e s
 αδενας  a D e n a s
-αδειασμενος  a D i a z m e n o s
-αδειασμενος(1)  a D y a z m e n o s
+αδειασμενος  a D y a z m e n o s
+αδειασμενος(1)  a D i a z m e n o s
 αδελφωμενος  a D e l f o m e n o s
 αδερφωμενος  a D e r f o m e n o s
 αδικημενος  a D i k i m e n o s
@@ -19103,7 +19066,6 @@
 βλαμμενους  v l a m e n u s
 βλαμμενων  v l a m e n o n
 βοηθημενος  v o i T i m e n o s
-βοηθημενος(1)  v o i T i m e n o s
 βοηθιεμαι  v o i T x e m e
 βοσκιεμαι  v o s k e m e
 βουλευτες  v u l e f t e s
@@ -19239,38 +19201,36 @@
 διεθλασα(1)  D i e T l a s a
 διεθρεψα  D i e T r e ps a
 διεθρεψα(1)  D i e T r e ps a
-διεκοψα  D i e k o ps a
+διεκοψα  D y e k o ps a
 διεκοψα(1)  D y e k o ps o
-διεκοψα(2)  D y e k o ps a
+διεκοψα(2)  D i e k o ps a
 διεπλευσα  D i e p l e f s a
 διεπνευσα  D i e p n e f s a
 διεπομαι  D i e p o m e
-διεπρεψα  D i e p r e ps a
-διεπρεψα(1)  D y e p r e ps a
+διεπρεψα  D y e p r e ps a
+διεπρεψα(1)  D i e p r e ps a
 διεπω  D i e p o
-διερρευσα  D i e rr e f s a
-διερρευσα(1)  D i e rr e f s a
-διερρευσα(2)  D y e rr e f s a
+διερρευσα  D y e rr e f s a
 διερχομαι  D i e rr x o m e
 διεχυσα  D i e x i s a
-διεψευσα  D i e ps e f s a
+διεψευσα  D y e ps e f s a
 διεψευσα(1)  D i e ps e f s a
 διαβλεπω  D i a v l e p o
-διαδεχθηκα  D i a D e x T i k a
-διαδεχθηκα(1)  D y a D e x T i k a
+διαδεχθηκα  D y a D e x T i k a
+διαδεχθηκα(1)  D i a D e x T i k a
 διαδεχομαι  D i a D e x o m e
-διαδεχομαι(1)  D i a D e x o m e
-διαδεχομαι(2)  D y a D e x o m e
-διαδεχτηκα  D i a D e x t i k a
-διαδεχτηκα(1)  D y a D e x t i k a
+διαδεχομαι(1)  D y a D e x o m e
+διαδεχομαι(2)  D i a D e x o m e
+διαδεχτηκα  D y a D e x t i k a
+διαδεχτηκα(1)  D i a D e x t i k a
 διαδεδομενος  D i a D e D o m e n o s
 διαθλασμενος  D i a T l a z m e n o s
 διαιρεθηκα  D i e r e T i k a
 διαιρεμενος  D i e r e m e n o s
-διαλεγομαι  D i a l e G o m e
-διαλεγομαι(1)  D y a l e G o m e
-διαλεγω  D i a l e G o
-διαλεγω(1)  D y a l e G o
+διαλεγομαι  D y a l e G o m e
+διαλεγομαι(1)  D i a l e G o m e
+διαλεγω  D y a l e G o
+διαλεγω(1)  D i a l e G o
 διαλελυμενα  D i a l e l i m e n a
 διαλελυμενε  D i a l e l i m e n e
 διαλελυμενες  D i a l e l i m e n e s
@@ -19282,78 +19242,69 @@
 διαλελυμενου  D i a l e l i m e n u
 διαλελυμενους  D i a l e l i m e n u s
 διαλελυμενων  D i a l e l i m e n o n
-διαλυμενα  D i a l i m e n a
-διαλυμενα(1)  D y a l i m e n a
-διαλυμενε  D i a l i m e n e
-διαλυμενε(1)  D y a l i m e n e
-διαλυμενες  D i a l i m e n e s
-διαλυμενες(1)  D y a l i m e n e s
-διαλυμενη  D i a l i m e n i
-διαλυμενη(1)  D y a l i m e n i
-διαλυμενης  D i a l i m e n i s
-διαλυμενης(1)  D y a l i m e n i s
-διαλυμενο  D i a l i m e n o
-διαλυμενο(1)  D y a l i m e n o
-διαλυμενοι  D i a l i m e n i
-διαλυμενοι(1)  D y a l i m e n i
-διαλυμενος  D i a l i m e n o s
-διαλυμενος(1)  D y a l i m e n o s
-διαλυμενου  D i a l i m e n u
-διαλυμενου(1)  D y a l i m e n u
-διαλυμενους  D i a l i m e n u s
-διαλυμενους(1)  D y a l i m e n u s
-διαλυμενων  D i a l i m e n o n
-διαλυμενων(1)  D y a l i m e n o n
+διαλυμενα  D y a l i m e n a
+διαλυμενα(1)  D i a l i m e n a
+διαλυμενε  D y a l i m e n e
+διαλυμενε(1)  D i a l i m e n e
+διαλυμενες  D y a l i m e n e s
+διαλυμενες(1)  D i a l i m e n e s
+διαλυμενη  D y a l i m e n i
+διαλυμενη(1)  D i a l i m e n i
+διαλυμενης  D y a l i m e n i s
+διαλυμενης(1)  D i a l i m e n i s
+διαλυμενο  D y a l i m e n o
+διαλυμενο(1)  D i a l i m e n o
+διαλυμενοι  D y a l i m e n i
+διαλυμενοι(1)  D i a l i m e n i
+διαλυμενος  D y a l i m e n o s
+διαλυμενος(1)  D i a l i m e n o s
+διαλυμενου  D y a l i m e n u
+διαλυμενου(1)  D i a l i m e n u
+διαλυμενους  D y a l i m e n u s
+διαλυμενους(1)  D i a l i m e n u s
+διαλυμενων  D y a l i m e n o n
+διαλυμενων(1)  D i a l i m e n o n
 διανεμομαι  D i a n e m o m e
 διανεμομε  D i a n e m o m e
 διανεμουμε  D i a n e m u m e
 διανεμω  D i a n e m o
 διανυκτερευση  D i a n i k t e r e f s i
-διαπερασμενος  D i a p e r a z m e n o s
-διαπερασμενος(1)  D y a p e r a z m e n o s
+διαπερασμενος  D y a p e r a z m e n o s
+διαπερασμενος(1)  D i a p e r a z m e n o s
 διαπλεω  D i a p l e o
 διαπνεομαι  D i a p n e o m e
 διαπνεομε  D i a p n e o m e
 διαπνεουμε  D i a p n e u m e
 διαπνεω  D i a p n e o
 διαπρεπω  D i a p r e p o
-διαρρεεται  D i a rr e e t e
-διαρρεεται(1)  D y a rr e e t e
-διαρρεομαι  D i a rr e o m e
+διαρρεεται  D y a rr e e t e
+διαρρεεται(1)  D i a rr e e t e
+διαρρεομαι  D y a rr e o m e
 διαρρεομαι(1)  D i a rr e o m e
-διαρρεομαι(2)  D y a rr e o m e
-διαρρεομε  D i a rr e o m e
-διαρρεομε(1)  D y a rr e o m e
-διαρρεουμε  D i a rr e u m e
+διαρρεομε  D y a rr e o m e
+διαρρεομε(1)  D i a rr e o m e
+διαρρεουμε  D y a rr e u m e
 διαρρεουμε(1)  D i a rr e u m e
-διαρρεουμε(2)  D y a rr e u m e
-διαρρετε  D i a rr e e t e
-διαρρετε(1)  D y a rr e e t e
-διαρρετε(2)  D y a rr e e t e
-διαρρεω  D i a rr e o
+διαρρετε  D y a rr e e t e
+διαρρετε(1)  D i a rr e e t e
+διαρρεω  D y a rr e o
 διαρρεω(1)  D i a rr e o
-διαρρεω(2)  D y a rr e o
 διασκεπτομαι  D i a s k e p t o m e
-διασκεπτομαι(1)  D i a s k e p t o m e
 διασκεφθηκα  D i a s k e f T i k a
-διασωληνωμενος  D i a s o l i n o m e n o s
-διασωληνωμενος(1)  D y a s o l i n o m e n o s
+διασωληνωμενος  D y a s o l i n o m e n o s
+διασωληνωμενος(1)  D i a s o l i n o m e n o s
 διατηρημενος  D i a t i r i m e n o s
 διατρεφομαι  D i a t r e f o m e
-διατρεφω  D i a t r e f o
-διατρεφω(1)  D y a t r e f o
-διαχεομαι  D i a x e o m e
-διαχεομαι(1)  D y a x e o m e
-διαχεομαι(2)  D y a x e o m e
-διαχεομε  D i a x e o m e
-διαχεομε(1)  D y a x e o m e
-διαχεομε(2)  D y a x e o m e
-διαχεουμε  D i a x e u m e
-διαχεουμε(1)  D y a x e u m e
-διαχεουμε(2)  D y a x e u m e
-διαχεω  D i a x e o
-διαχεω(1)  D y a x e o
-διαχεω(2)  D y a x e o
+διατρεφω  D y a t r e f o
+διατρεφω(1)  D i a t r e f o
+διαχεομαι  D y a x e o m e
+διαχεομαι(1)  D i a x e o m e
+διαχεομε  D y a x e o m e
+διαχεομε(1)  D i a x e o m e
+διαχεουμε  D y a x e u m e
+διαχεουμε(1)  D i a x e u m e
+διαχεω  D y a x e o
+διαχεω(1)  D i a x e o
 διεγερθηκα  D i e y e r T i k a
 διεγερμενος  D i e y e r m e n o s
 διεφθαρμενος  D i e f T a r m e n o s
@@ -19769,8 +19720,8 @@
 κακογαμημενου  k a k o G a m i m e n u
 κακογαμημενους  k a k o G a m i m e n u s
 κακογαμημενων  k a k o G a m i m e n o n
-κακοκεφιες  k a k o k e f i e s
-κακοκεφιες(1)  k a k o k e f x e s
+κακοκεφιες  k a k o k e f x e s
+κακοκεφιες(1)  k a k o k e f i e s
 καλε  k a l e
 καλεμι  k a l e m i
 καλεστηκα  k a l e s t i k a
@@ -21413,12 +21364,12 @@
 ηντα  i n d a
 ηπαρ  i p a r
 ηπειρος  i p i r o s
-ηπια  i p i a
-ηπια(1)  i p xj a
-ηπιε  i p i e
-ηπιε(1)  i p x e
-ηπιες  i p i e s
-ηπιες(1)  i p x e s
+ηπια  i p xj a
+ηπια(1)  i p i a
+ηπιε  i p x e
+ηπιε(1)  i p i e
+ηπιες  i p x e s
+ηπιες(1)  i p i e s
 ηπιος  i p i o s
 ηρα  i rr a
 ησαν  i s a n
@@ -21669,14 +21620,13 @@
 διηρκεσα  D i i r k e s a
 διαδοχη  D y a D o x i
 διαθηκη  D i a T i k i
-διακηρυξη  D i a k i r i ks i
+διακηρυξη  D y a k i r i ks i
 διακηρυξη(1)  D i a k i r i ks i
-διακηρυξη(2)  D y a k i r i ks i
 διακομιστης  D i a k o m i s t i s
 διαμηνυσα  D i a m i n i s a
 διαμοιραστης  D i a m i rr a s t i s
-διαμονη  D i a m o n i
-διαμονη(1)  D y a m o n i
+διαμονη  D y a m o n i
+διαμονη(1)  D i a m o n i
 διανεμηθηκα  D i a n e m i T i k a
 διανομη  D y a n o m i
 διαρκης  D i a rr k i s
@@ -21684,14 +21634,14 @@
 διαστροφη  D y a s t r o f i
 διατηρηθηκα  D i a t i r i T i k a
 διατριβη  D y a t r i v i
-διατροφη  D i a t r o f i
-διατροφη(1)  D y a t r o f i
+διατροφη  D y a t r o f i
+διατροφη(1)  D i a t r o f i
 διαφημιση  D i a f i m i s i
 διαφανης  D i a f a n i s
 διαφημιστης  D i a f i m i s t i s
 διδακτικη  D i D a k t i k i
-διεθνης  D i e T n i s
-διεθνης(1)  D y e T n i s
+διεθνης  D y e T n i s
+διεθνης(1)  D i e T n i s
 διεμηνυσα  D i e m i n i s a
 διεξαγωγη  D i e ks a G o y i
 διετης  D i e t i s
@@ -22980,19 +22930,19 @@
 δημοκρατιας  D i m o k rr a t i a s
 δημοκρατιες  D i m o k rr a t i e s
 διαιρεσα  D i e r e s a
-διαβεβαιωσα  D i a v e v e o s a
-διαβεβαιωσα(1)  D y a v e v e o s a
+διαβεβαιωσα  D y a v e v e o s a
+διαβεβαιωσα(1)  D i a v e v e o s a
 διαγουμιζομαι  D y a G u m i z o m e
 διαγουμιζω  D y a G u m i z o
 διαγουμιστηκα  D y a G u m i s t i k a
-διαγωνιζομαι  D i a G o n i z o m e
-διαγωνιζομαι(1)  D y a G o n i z o m e
-διαδικτυο  D i a D i k t i o
-διαδικτυο(1)  D y a D i k t i o
-διαδεχθει  D i a D e x T i
-διαδεχθει(1)  D y a D e x T i
-διαδεχτει  D i a D e x t i
-διαδεχτει(1)  D y a D e x t i
+διαγωνιζομαι  D y a G o n i z o m e
+διαγωνιζομαι(1)  D i a G o n i z o m e
+διαδικτυο  D y a D i k t i o
+διαδικτυο(1)  D i a D i k t i o
+διαδεχθει  D y a D e x T i
+διαδεχθει(1)  D i a D e x T i
+διαδεχτει  D y a D e x t i
+διαδεχτει(1)  D i a D e x t i
 διακρινω  D i a k rr i n o
 διαλογιζομαι  D i a l o y i z o m e
 διαλογιστηκα  D i a l o y i s t i k a
@@ -23240,8 +23190,8 @@
 ιατρειο  i a t r i o
 ιδιως  i D i o s
 ιδιαιτερα  i D i e t e r a
-ιδιαιτερος  i D i e t e r o s
-ιδιαιτερος(1)  i D y e t e r o s
+ιδιαιτερος  i D y e t e r o s
+ιδιαιτερος(1)  i D i e t e r o s
 ιδιοσυγκρασια  i D i o s i ng g r a s i a
 ιδιωτικοποιηση  i D i o t i k o p i i s i
 ιδρωτιλα  i D r o t i l a
@@ -25102,20 +25052,16 @@
 δημοσκοπηση  D i m o s k o p i s i
 δημοσιος  D i m o s i o s
 διαδοχικος  D y a D o x i k o s
-διακοπηκα  D i a k o p i k a
-διακοπηκα(1)  D y a k o p i k a
-διακοπηκα(2)  D y a k o p i k a
-διακοπτομαι  D i a k o p t o m e
-διακοπτομαι(1)  D y a k o p t o m e
-διακοπτομαι(2)  D y a k o p t o m e
-διακοπτομε  D i a k o p t o m e
-διακοπτομε(1)  D y a k o p t o m e
-διακοπτομε(2)  D y a k o p t o m e
-διακοπτουμε  D i a k o p t u m e
-διακοπτουμε(1)  D y a k o p t u m e
-διακοπτουμε(2)  D y a k o p t u m e
-διακοπτω  D i a k o p t o
-διακοπτω(1)  D y a k o p t o
+διακοπηκα  D y a k o p i k a
+διακοπηκα(1)  D i a k o p i k a
+διακοπτομαι  D y a k o p t o m e
+διακοπτομαι(1)  D i a k o p t o m e
+διακοπτομε  D y a k o p t o m e
+διακοπτομε(1)  D i a k o p t o m e
+διακοπτουμε  D y a k o p t u m e
+διακοπτουμε(1)  D i a k o p t u m e
+διακοπτω  D y a k o p t o
+διακοπτω(1)  D i a k o p t o
 διακοσια  D y a k o s xj a
 διακοσια(1)  D y a k o s i a
 διδακτικος  D i D a k t i k o s
@@ -25840,8 +25786,8 @@
 πισωκολλητο  p i s o k o l i t o
 πιτσαδορος  p i ts a D o r o s
 πιονι  p xj o n i
-πιονια  p i o n i a
-πιονια(1)  p xj o nj a
+πιονια  p xj o nj a
+πιονια(1)  p i o n i a
 πιονιο  p i o n i o
 πλαδαρος  p l a D a r o s
 πλαστος  p l a s t o s
@@ -26968,8 +26914,8 @@
 διαγουμισα  D y a G u m i s a
 διαιρουμαι  D i e r u m e
 διαιρουμε  D i e r u m e
-διαλυω  D i a l i o
-διαλυω(1)  D y a l i o
+διαλυω  D y a l i o
+διαλυω(1)  D i a l i o
 διαμηνυθηκα  D i a m i n i T i k a
 διαμηνυομαι  D i a m i n i o m e
 διαμηνυω  D i a m i n i o
@@ -26978,27 +26924,22 @@
 διανυομε  D i a n i o m e
 διανυομεν  D i a n i o m e n
 διανυουμε  D i a n i u m e
-διανυω  D i a n i o
-διανυω(1)  D y a n i o
+διανυω  D y a n i o
+διανυω(1)  D i a n i o
 διαπραγματευομαι  D y a p r a G m a t e v o m e
 διατηρουμαι  D i a t i r u m e
 διατηρουμε  D i a t i r u m e
-διαχυθηκα  D i a x i T i k a
-διαχυθηκα(1)  D y a x i T i k a
-διαχυθηκα(2)  D y a x i T i k a
-διαχυνομαι  D i a x i n o m e
-διαχυνομαι(1)  D y a x i n o m e
-διαχυνομαι(2)  D y a x i n o m e
-διαχυνω  D i a x i n o
-διαχυνω(1)  D y a x i n o
-διαχυνω(2)  D y a x i n o
+διαχυθηκα  D y a x i T i k a
+διαχυθηκα(1)  D i a x i T i k a
+διαχυνομαι  D y a x i n o m e
+διαχυνομαι(1)  D i a x i n o m e
+διαχυνω  D y a x i n o
+διαχυνω(1)  D i a x i n o
 διαψευδομαι  D i a ps e v D o m e
 διαψευδομε  D i a ps e v D o m e
-διαψευδομε(1)  D i a ps e v D o m e
 διαψευδουμε  D i a ps e v D u m e
 διαψευδω  D i a ps e v D o
 διαψευσθηκα  D i a ps e f s T i k a
-διαψευσθηκα(1)  D i a ps e f s T i k a
 διαψευστηκα  D i a ps e f s t i k a
 δικαιοσυνη  D i k e o s i n i
 δικαιουχος  D i k e u x o s
@@ -28776,55 +28717,46 @@
 δημοκρατιων  D i m o k rr a t i o n
 δημωδης  D i m o D i s
 δημωδους  D i m o D u s
-διαβεβαιωθηκα  D i a v e v e o T i k a
-διαβεβαιωθηκα(1)  D y a v e v e o T i k a
-διαβεβαιωνομαι  D i a v e v e o n o m e
-διαβεβαιωνομαι(1)  D y a v e v e o n o m e
-διαβεβαιωνω  D i a v e v e o n o
-διαβεβαιωνω(1)  D y a v e v e o n o
-διαβεβαιωσεις  D i a v e v e o s i s
-διαβεβαιωσεις(1)  D y a v e v e o s i s
-διαδηλωνομαι  D i a D i l o n o m e
+διαβεβαιωθηκα  D y a v e v e o T i k a
+διαβεβαιωθηκα(1)  D i a v e v e o T i k a
+διαβεβαιωνομαι  D y a v e v e o n o m e
+διαβεβαιωνομαι(1)  D i a v e v e o n o m e
+διαβεβαιωνω  D y a v e v e o n o
+διαβεβαιωνω(1)  D i a v e v e o n o
+διαβεβαιωσεις  D y a v e v e o s i s
+διαβεβαιωσεις(1)  D i a v e v e o s i s
+διαδηλωνομαι  D y a D i l o n o m e
 διαδηλωνομαι(1)  D i a D i l o n o m e
-διαδηλωνομαι(2)  D y a D i l o n o m e
-διαδηλωνω  D i a D i l o n o
+διαδηλωνω  D y a D i l o n o
 διαδηλωνω(1)  D i a D i l o n o
-διαδηλωνω(2)  D y a D i l o n o
 διαθλω  D i a T l o
 διαθλωμαι  D i a T l o m e
 διαιρω  D i e r o
 διαιτωμαι  D i e t o m e
 διακοσμω  D i a k o z m o
-διαμορφωνομαι  D i a m o r f o n o m e
+διαμορφωνομαι  D y a m o r f o n o m e
 διαμορφωνομαι(1)  D i a m o r f o n o m e
-διαμορφωνομαι(2)  D y a m o r f o n o m e
-διαμορφωνω  D i a m o r f o n o
+διαμορφωνω  D y a m o r f o n o
 διαμορφωνω(1)  D i a m o r f o n o
-διαμορφωνω(2)  D y a m o r f o n o
-διαμορφωσεις  D i a m o r f o s i s
+διαμορφωσεις  D y a m o r f o s i s
 διαμορφωσεις(1)  D i a m o r f o s i s
-διαμορφωσεις(2)  D y a m o r f o s i s
 διαρκω  D i a r k o
-διαρκω(1)  D i a r k o
-διασπω  D i a s p o
+διασπω  D y a s p o
 διασπω(1)  D i a s p o
-διασπω(2)  D y a s p o
 διατηρω  D i a t i r o
-διατυπωνομαι  D i a t i p o n o m e
+διατυπωνομαι  D y a t i p o n o m e
 διατυπωνομαι(1)  D i a t i p o n o m e
-διατυπωνομαι(2)  D y a t i p o n o m e
-διατυπωνω  D i a t i p o n o
+διατυπωνω  D y a t i p o n o
 διατυπωνω(1)  D i a t i p o n o
-διατυπωνω(2)  D y a t i p o n o
-διαφωνω  D i a f o n o
-διαφωνω(1)  D y a f o n o
+διαφωνω  D y a f o n o
+διαφωνω(1)  D i a f o n o
 διηθω  D i i T o
 διοικω  D i i k o
 διοργανωθηκα  D i o r G a n o T i k a
 διοργανωνομαι  D i o r G a n o n o m e
 διοργανωνω  D i o r G a n o n o
-διορθωνω  D i o r T o n o
-διορθωνω(1)  D y o r T o n o
+διορθωνω  D y o r T o n o
+διορθωνω(1)  D i o r T o n o
 διψω  D i ps o
 διωκομαι  D i o k o m e
 διωκω  D i o k o
@@ -28919,8 +28851,8 @@
 ευσεβων  e f s e v o n
 ευσεβως  e f s e v o s
 ευχαριστω  e f x a r i s t o
-ευωδιων  e v o D i o n
-ευωδιων(1)  e v o D y o n
+ευωδιων  e v o D y o n
+ευωδιων(1)  e v o D i o n
 ζευγαριων  z e v G a rr y o n
 ζευγων  z e v G o n
 ζημιωθηκα  z i m i o T i k a
@@ -29250,8 +29182,8 @@
 στραβωθηκα  s t r a v o T i k a
 στραβωνομαι  s t r a v o n o m e
 στραβωνω  s t r a v o n o
-στρατιωτης  s t r a t i o t i s
-στρατιωτης(1)  s t r a t xj o t i s
+στρατιωτης  s t r a t xj o t i s
+στρατιωτης(1)  s t r a t i o t i s
 στρατωνα  s t r a t o n a
 στρατωνας  s t r a t o n a s
 στρωμα  s t r o m a
