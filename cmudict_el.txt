@@ -13200,8 +13200,8 @@
 ψαλμών  ps a l m o n
 ψαλτάδες  ps a l t a D e s
 ψαλτάδων  ps a l t a D o n
-ψαλτήρια  ps a l t i r i a
-ψαλτήρια(1)  ps a l t i r y a
+ψαλτήρια  ps a l t i r y a
+ψαλτήρια(1)  ps a l t i r i a
 ψαλτήριο  ps a l t i r i o
 ψαλτών  ps a l t o n
 ψαμμίτες  ps a m i t e s
@@ -15200,8 +15200,8 @@
 αγιαστηκα  a y a s t i k a
 αγιαστηκα(1)  a y i a s t i k a
 αγιασματαρι  a y a z m a t a rr i
-αγιασματαρια  a y a z m a t a rr i a
-αγιασματαρια(1)  a y a z m a t a rr y a
+αγιασματαρια  a y a z m a t a rr y a
+αγιασματαρια(1)  a y a z m a t a rr i a
 αγιασματαριο  a y a z m a t a rr i o
 αγιατολαχ  a y a t o l a x
 αγκαλιασα  a ng g a ll a s a
@@ -22215,8 +22215,8 @@
 ψηφου  ps i f u
 ψηφους  ps i f u s
 ψηφων  ps i f o n
-ψαλτηρια  ps a l t i r i a
-ψαλτηρια(1)  ps a l t i r y a
+ψαλτηρια  ps a l t i r y a
+ψαλτηρια(1)  ps a l t i r i a
 ψαλτηριο  ps a l t i r i o
 ψευδη  ps e v D i
 ψευδης  ps e v D i s
@@ -24833,7 +24833,7 @@
 ανεμοτρατες  a n e m o t r a t e s
 ανεξολοθρευτος  a n e ks o l o T r e f t o s
 ανεπανορθωτος  a n e p a n o rr T o t o s
-ανημπορια(1)  a n i m b o r y a
+ανημπορια  a n i m b o r y a
 ανθρωποκαινος  a n T r o p o k e n o s
 ανθο  a n T o
 ανθοκηπος  a n T o k i p o s
