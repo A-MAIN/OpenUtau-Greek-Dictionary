@@ -389,8 +389,8 @@
 ήγγελλα  i ng g e l a
 ήγειρα  i y i r a
 ήδη  i D i
-ήλιος  i l i o s
-ήλιος(1)  i ll o s
+ήλιος  i ll o s
+ήλιος(1)  i l i o s
 ήμασταν  i m a s t a n
 ήμαστε  i m a s t e
 ήμεθα  i m e T a
@@ -757,8 +757,8 @@
 αγκωνιάστηκα  a ng g o nj a s t i k a
 αγκύλη  a ng g i l i
 αγκύλι  a ng g i l i
-αγκύλια  a ng g i l i a
-αγκύλια(1)  a ng g i ll a
+αγκύλια  a ng g i ll a
+αγκύλια(1)  a ng g i l i a
 αγκύλιο  a ng g i l i o
 αγκώνιασα  a ng g o nj a s a
 αγλάισμα  a G l a i z m a
@@ -2686,8 +2686,8 @@
 αποτελείωμα  a p o t e l i o m a
 αποτελειωμάτων  a p o t e ll o m a t o n
 αποτελειώματα  a p o t e ll o m a t a
-αποτελειώματος  a p o t e l i o m a t o s
-αποτελειώματος(1)  a p o t e ll o m a t o s
+αποτελειώματος  a p o t e ll o m a t o s
+αποτελειώματος(1)  a p o t e l i o m a t o s
 αποτελούμαι  a p o t e l u m e
 αποτελώ  a p o t e l o
 αποτράβηξα  a p o t r a v i ks a
@@ -2727,8 +2727,8 @@
 αποφύσεων  a p o f i s e o n
 αποφύσεως  a p o f i s e o s
 αποφώλι  a p o f o l i
-αποφώλια  a p o f o l i a
-αποφώλια(1)  a p o f o ll a
+αποφώλια  a p o f o ll a
+αποφώλια(1)  a p o f o l i a
 αποφώλιο  a p o f o l i o
 αποφώλιος  a p o f o l i o s
 αποχαιρετημένος  a p o x e r e t i m e n o s
@@ -3544,10 +3544,10 @@
 γαμημένου  G a m i m e n u
 γαμημένους  G a m i m e n u s
 γαμημένων  G a m i m e n o n
-γαμιάς  G a m nj a s
-γαμιέμαι  G a m nj e m e
-γαμιόλα  G a m nj o l a
-γαμιόλης  G a m nj o l i s
+γαμιάς  G a m y a s
+γαμιέμαι  G a m y e m e
+γαμιόλα  G a m y o l a
+γαμιόλης  G a m y o l i s
 γαμοσταυρίδια  G a m o s t a v r i D y a
 γαμοσταυρίζω  G a m o s t a v r i z o
 γαμπρός  G a m b r o s
@@ -5554,8 +5554,8 @@
 ηλικιωμένων  i l i k i o m e n o n
 ηλιοβασίλεμα  i ll o v a s i l e m a
 ηλιοθεραπεία  i ll o T e r a p i a
-ηλιοτρόπιο  i l i o t r o p i o
-ηλιοτρόπιο(1)  i ll o t r o p i o
+ηλιοτρόπιο  i ll o t r o p i o
+ηλιοτρόπιο(1)  i l i o t r o p i o
 ηλιόλουστος  i ll o l u s t o s
 ημέρα  i m e r a
 ημέρευ'  i m e r e f
@@ -6550,7 +6550,7 @@
 κλήση  k l i s i
 κλίνομαι  k l i n o m e
 κλίνομε  k l i n o m e
-κλίση  k ll i s i
+κλίση  k l i s i
 κλαίω  k l e o
 κλαδεύομαι  k l a D e v o m e
 κλαδεύτηκα  k l a D e f t i k a
@@ -8831,8 +8831,8 @@
 ουζερί  u z e r i
 ουλάνος  u l a n o s
 ουλή  u l i
-ουράνια  u r a n i a
-ουράνια(1)  u r a nj a
+ουράνια  u r a nj a
+ουράνια(1)  u r a n i a
 ουράνιος  u r a n i o s
 ουρανικοποίηση  u rr a n i k o p i i s i
 ουρανός  u rr a n o s
@@ -11593,8 +11593,8 @@
 τελειότητες  t e l i o t i t e s
 τελειώθηκα  t e l i o T i k a
 τελειώνομαι  t e l i o n o m e
-τελειώνω  t e l i o n o
-τελειώνω(1)  t e ll o n o
+τελειώνω  t e ll o n o
+τελειώνω(1)  t e l i o n o
 τελεσμένος  t e l e z m e n o s
 τελευταία  t e l e f t e a
 τελευταίος  t e l e f t e o s
@@ -12315,8 +12315,8 @@
 φιλιά  f i ll a
 φιλιέμαι  f i ll e m e
 φιλιού  f i ll u
-φιλιών  f i l i o n
-φιλιών(1)  f i ll o n
+φιλιών  f i ll o n
+φιλιών(1)  f i l i o n
 φιλολογίας  f i l o l o y i a s
 φιλολογίες  f i l o l o y i e s
 φιλολογιών  f i l o l o y i o n
@@ -13099,8 +13099,8 @@
 χρωστάω  x r o s t a o
 χρωστούσα  x r o s t u s a
 χρωστώ  x r o s t o
-χρόνια  x rr o n i a
-χρόνια(1)  x rr o nj a
+χρόνια  x rr o nj a
+χρόνια(1)  x rr o n i a
 χρόνος  x r o n o s
 χρώμα  x r o m a
 χρώσταγα  x r o s t a G a
@@ -16816,8 +16816,8 @@
 ουαλικα  u a l i k a
 ουγκια  u ng gj a
 ουλανος  u l a n o s
-ουρανια  u r a n i a
-ουρανια(1)  u r a nj a
+ουρανια  u r a nj a
+ουρανια(1)  u r a n i a
 ουρανιος  u r a n i o s
 οφσαιντ  o f s a i d
 παγκος  p a ng g o s
@@ -21354,8 +21354,8 @@
 ηγγελλα  i ng g e l a
 ηγειρα  i y i r a
 ηδη  i D i
-ηλιος  i l i o s
-ηλιος(1)  i ll o s
+ηλιος  i ll o s
+ηλιος(1)  i l i o s
 ημασταν  i m a s t a n
 ημαστε  i m a s t e
 ημεθα  i m e T a
@@ -23297,7 +23297,7 @@
 κιτσαρια  k i ts a r i a
 κλινομαι  k l i n o m e
 κλινομε  k l i n o m e
-κλιση  k ll i s i
+κλιση  k l i s i
 κλαιω  k l e o
 κλαρινο  k l a r i n o
 κλειδωση  k l i D o s i
@@ -25209,8 +25209,8 @@
 ηθικοτητα  i T i k o t i t a
 ηλεκτρισμος  i l e k t r i z m o s
 ηλιθιοτητα  i l i T i o t i t a
-ηλιοτροπιο  i l i o t r o p i o
-ηλιοτροπιο(1)  i ll o t r o p i o
+ηλιοτροπιο  i ll o t r o p i o
+ηλιοτροπιο(1)  i l i o t r o p i o
 ηλιολουστος  i ll o l u s t o s
 ημιοροφου  i m i o r o f u
 ημιοροφους  i m i o r o f u s
@@ -26203,7 +26203,7 @@
 χρονολογηση  x rr o n o l o y i s i
 χρονολογησης  x rr o n o l o y i s i s
 χρυσος  x r i s o s
-χρονια(1)  x rr o nj a
+χρονια  x rr o nj a
 χρονος  x r o n o s
 χτικιο  x t i kj o
 χονδρος  x o n D r o s
@@ -26329,7 +26329,7 @@
 ολος  o l o s
 ομικρον  o m i k rr o n
 ομοια  o m nj a
-ομοιος  o m nj o s
+ομοιος  o m i o s
 ομορφα  o m o r f a
 ομορφε  o m o r f e
 ομορφες  o m o r f e s
@@ -26516,8 +26516,8 @@
 αγκομαχουσα  a ng g o m a x u s a
 αγκυλη  a ng g i l i
 αγκυλι  a ng g i l i
-αγκυλια  a ng g i l i a
-αγκυλια(1)  a ng g i ll a
+αγκυλια  a ng g i ll a
+αγκυλια(1)  a ng g i l i a
 αγκυλιο  a ng g i l i o
 αγναντευω  a G n a n d e v o
 αγνοουμενος  a G n o u m e n o s
@@ -28582,14 +28582,14 @@
 αποστειρωσεις  a p o s t i r o s i s
 αποστερω  a p o s t e rr o
 αποτελειωματα  a p o t e ll o m a t a
-αποτελειωματος  a p o t e l i o m a t o s
-αποτελειωματος(1)  a p o t e ll o m a t o s
+αποτελειωματος  a p o t e ll o m a t o s
+αποτελειωματος(1)  a p o t e l i o m a t o s
 αποτελω  a p o t e l o
 αποτραβω  a p o t r a v o
 αποφοιτω  a p o f i t o
 αποφωλι  a p o f o l i
-αποφωλια  a p o f o l i a
-αποφωλια(1)  a p o f o ll a
+αποφωλια  a p o f o ll a
+αποφωλια(1)  a p o f o l i a
 αποφωλιο  a p o f o l i o
 αποφωλιος  a p o f o l i o s
 αποχτω  a p o x t o
@@ -29238,8 +29238,8 @@
 ταχτοποιω  t a x t o p i o
 τελειωθηκα  t e l i o T i k a
 τελειωνομαι  t e l i o n o m e
-τελειωνω  t e l i o n o
-τελειωνω(1)  t e ll o n o
+τελειωνω  t e ll o n o
+τελειωνω(1)  t e l i o n o
 τελω  t e l o
 τεμενων  t e m e n o n
 τεχνολογιων  t e x n o l o y i o n
@@ -29291,8 +29291,8 @@
 φασκιωνω  f a s kj o n o
 φασουλιων  f a s u ll o n
 φασωνομαι  f a s o n o m e
-φιλιων  f i l i o n
-φιλιων(1)  f i ll o n
+φιλιων  f i ll o n
+φιλιων(1)  f i l i o n
 φιλολογιων  f i l o l o y i o n
 φιλοσοφω  f i l o s o f o
 φιλω  f i l o
